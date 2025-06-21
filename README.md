@@ -77,7 +77,7 @@ Reshaping and Manipulation /
    ```
 
 ## Prerequisites 🐍
-- Python 3.7+
+- Python 3.6+
 - NumPy
 
 ## Contributing 🤝
