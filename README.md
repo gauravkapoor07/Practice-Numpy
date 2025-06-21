@@ -1,4 +1,4 @@
-# Advanced NumPy Learning Repository 🚀
+# Practice-NumPy Repository 🚀
 
 ## About 🧑‍💻
 This repository is designed for learners and practitioners who want to master NumPy for data science, machine learning, Analysis and scientific computing. It provides hands-on Python scripts, practical examples, and clear explanations to help you understand and apply NumPy concepts efficiently. Whether you are a beginner or looking to deepen your knowledge, this collection will support your journey.
